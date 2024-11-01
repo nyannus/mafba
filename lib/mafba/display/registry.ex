@@ -1,4 +1,4 @@
-defmodule Display.Registry do
+defmodule Mafba.Display.Registry do
 
   def child_spec(), do: {
     Registry,

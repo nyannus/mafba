@@ -1,9 +1,9 @@
-defmodule Fbm.MixProject do
+defmodule Mafba.MixProject do
   use Mix.Project
 
   def project do
     [
-      app: :fbm,
+      app: :mafba,
       version: "0.1.0",
       elixir: "~> 1.18-dev",
       start_permanent: Mix.env() == :prod,

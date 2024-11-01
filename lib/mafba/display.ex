@@ -1,4 +1,4 @@
-defmodule Display.K9000FBM do
+defmodule Mafba.Display do
   require Logger
   import Bitwise
   alias Circuits.UART
